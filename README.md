@@ -48,8 +48,8 @@
 
 
 
-### Name:ALAGU NACHIYAR K
-### Register Number: 212222240006
+### Name: KABILAN V
+### Register Number: 212222100018
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
